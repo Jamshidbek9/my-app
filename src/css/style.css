@@ -1,0 +1,7 @@
+.btn:focus {
+    box-shadow: none;
+}
+.btn:checked{
+    box-shadow: none;
+}
+
